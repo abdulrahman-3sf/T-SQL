@@ -22,7 +22,7 @@ This repository contains my practice files from a T-SQL course. Each file focuse
 - **T-SQL Triggers.sql**  
   Trigger examples for insert, update, and delete actions.
 
-  - **T-SQL Cursors.sql**  
+- **T-SQL Cursors.sql**  
   How to use cursors to loop through query results.
   
 - **T-SQL Common Table Expressions CTEs.sql**  
